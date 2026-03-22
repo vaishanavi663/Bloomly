@@ -1,0 +1,19 @@
+
+[
+  {
+    "id": "1629824400000",
+    "date": "2023-08-24T17:00:00.000Z",
+    "duration": 15,
+    "transcript": "I had a really good day today, but I'm also feeling a little tired. I'm looking forward to the weekend.",
+    "emotions": {
+      "primary": "joy",
+      "secondary": "tired",
+      "confidence": 0.85
+    },
+    "moodScore": 7,
+    "aiInsights": [
+      "It sounds like you had a positive day overall!",
+      "Remember to get some rest this weekend to recharge."
+    ]
+  }
+]

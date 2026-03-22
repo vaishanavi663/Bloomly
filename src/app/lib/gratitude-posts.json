@@ -1,0 +1,33 @@
+
+[
+  {
+    "id": "1",
+    "content": "Had the most amazing sunset walk today. Nature really knows how to paint the sky! 🌅",
+    "author": "SunnyDays",
+    "date": "2023-10-27T18:30:00.000Z",
+    "category": "nature",
+    "hearts": 12,
+    "userHearted": false,
+    "anonymous": true
+  },
+  {
+    "id": "2",
+    "content": "My friend remembered my presentation today and texted me good luck. Small gestures mean everything! 💜",
+    "author": "GratefulHeart",
+    "date": "2023-10-27T17:30:00.000Z",
+    "category": "friends",
+    "hearts": 8,
+    "userHearted": false,
+    "anonymous": true
+  },
+  {
+    "id": "3",
+    "content": "Finally finished that project I've been working on for weeks. The feeling of accomplishment is incredible! ✨",
+    "author": "Achiever23",
+    "date": "2023-10-27T16:30:00.000Z",
+    "category": "achievement",
+    "hearts": 15,
+    "userHearted": false,
+    "anonymous": true
+  }
+]

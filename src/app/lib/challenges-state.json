@@ -1,0 +1,114 @@
+
+{
+  "challenges": [
+    {
+      "id": "daily-1",
+      "title": "Morning Gratitude",
+      "description": "Write down 3 things you're grateful for",
+      "category": "daily",
+      "difficulty": "easy",
+      "points": 10,
+      "icon": "🌅",
+      "color": "from-amber-400 to-orange-400",
+      "isCompleted": false
+    },
+    {
+      "id": "daily-2",
+      "title": "Mindful Breathing",
+      "description": "5 minutes of deep breathing exercises",
+      "category": "daily",
+      "difficulty": "easy",
+      "points": 15,
+      "icon": "🌸",
+      "color": "from-pink-400 to-rose-400",
+      "isCompleted": false
+    },
+    {
+      "id": "daily-3",
+      "title": "Digital Detox Hour",
+      "description": "One hour without screens or social media",
+      "category": "daily",
+      "difficulty": "medium",
+      "points": 25,
+      "icon": "📵",
+      "color": "from-blue-400 to-indigo-400",
+      "isCompleted": false
+    },
+    {
+      "id": "daily-4",
+      "title": "Random Act of Kindness",
+      "description": "Do something nice for someone today",
+      "category": "daily",
+      "difficulty": "medium",
+      "points": 20,
+      "icon": "💝",
+      "color": "from-purple-400 to-pink-400",
+      "isCompleted": false
+    },
+    {
+      "id": "weekly-1",
+      "title": "Nature Connection",
+      "description": "Spend 2+ hours outdoors this week",
+      "category": "weekly",
+      "difficulty": "medium",
+      "points": 50,
+      "icon": "🌳",
+      "color": "from-green-400 to-emerald-400",
+      "isCompleted": false,
+      "totalDays": 7
+    },
+    {
+      "id": "weekly-2",
+      "title": "Creative Expression",
+      "description": "Engage in creative activities for 30 min daily",
+      "category": "weekly",
+      "difficulty": "medium",
+      "points": 75,
+      "icon": "🎨",
+      "color": "from-violet-400 to-purple-400",
+      "isCompleted": false,
+      "totalDays": 7
+    },
+    {
+      "id": "weekly-3",
+      "title": "Social Connection",
+      "description": "Have meaningful conversations with 3 people",
+      "category": "weekly",
+      "difficulty": "hard",
+      "points": 100,
+      "icon": "💬",
+      "color": "from-teal-400 to-cyan-400",
+      "isCompleted": false
+    },
+    {
+      "id": "milestone-1",
+      "title": "7-Day Streak Master",
+      "description": "Complete daily challenges for 7 days straight",
+      "category": "milestone",
+      "difficulty": "hard",
+      "points": 200,
+      "icon": "🔥",
+      "color": "from-red-400 to-orange-400",
+      "isCompleted": false
+    },
+    {
+      "id": "milestone-2",
+      "title": "Self-Care Champion",
+      "description": "Complete 25 challenges total",
+      "category": "milestone",
+      "difficulty": "hard",
+      "points": 500,
+      "icon": "🏆",
+      "color": "from-yellow-400 to-yellow-500",
+      "isCompleted": false
+    }
+  ],
+  "userStats": {
+    "totalPoints": 0,
+    "currentStreak": 0,
+    "longestStreak": 0,
+    "level": 1,
+    "challengesCompleted": 0,
+    "badges": []
+  }
+}

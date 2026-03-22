@@ -1,0 +1,48 @@
+
+[
+  {
+    "id": "1",
+    "title": "The Midnight Library",
+    "description": "A novel about a library that allows you to live out different versions of your life.",
+    "category": "book",
+    "image": "https://picsum.photos/seed/book1/400/600",
+    "rating": 4.5,
+    "author": "Matt Haig",
+    "year": 2020,
+    "genre": "Fantasy Fiction",
+    "reason": "For a thoughtful mood, this book offers perspective on life choices and happiness.",
+    "tags": ["uplifting", "magical", "introspective"],
+    "link": "#",
+    "data-ai-hint": "book library"
+  },
+  {
+    "id": "2",
+    "title": "Inside Out",
+    "description": "An animated film that visualizes the emotions inside a young girl's mind.",
+    "category": "movie",
+    "image": "https://picsum.photos/seed/movie1/600/400",
+    "rating": 4.8,
+    "year": 2015,
+    "duration": "1h 35m",
+    "genre": "Animation",
+    "reason": "A great way to understand and empathize with your own emotions.",
+    "tags": ["family", "emotional", "insightful"],
+    "link": "#",
+    "data-ai-hint": "animation characters"
+  },
+  {
+    "id": "3",
+    "title": "Weightless",
+    "description": "An 8-minute ambient song designed to reduce anxiety.",
+    "category": "music",
+    "image": "https://picsum.photos/seed/music1/400/400",
+    "rating": 4.9,
+    "artist": "Marconi Union",
+    "duration": "8:10",
+    "genre": "Ambient",
+    "reason": "Clinically shown to reduce stress, perfect for finding calm.",
+    "tags": ["relaxing", "instrumental", "soothing"],
+    "link": "#",
+    "data-ai-hint": "calm music"
+  }
+]
